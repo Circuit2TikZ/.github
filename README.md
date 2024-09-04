@@ -1,8 +1,8 @@
 # Circuit2TikZ: a GUI for CircuiTikZ
 
-==============
 
-The [Circuit2Ti_k_Z](https://github.com/Circuit2TikZ) project is based on [CircuiTi_k_Z](https://github.com/circuitikz) (which was partially maintained at the [institute of electronics engineering](https://www.lte.tf.fau.de)) and aims to provide several productivity applications to simplify and speed up the design flow of drawing circuits with CircuiTi_k_Z. These applications make it easier to create circuit drawings, suitable for use in LaTeX and TeX based environments.
+
+The [Circuit2Ti*k*Z](https://github.com/Circuit2TikZ) project is based on [CircuiTi_k_Z](https://github.com/circuitikz) (which was partially maintained at the [institute of electronics engineering](https://www.lte.tf.fau.de)) and aims to provide several productivity applications to simplify and speed up the design flow of drawing circuits with CircuiTi_k_Z. These applications make it easier to create circuit drawings, suitable for use in LaTeX and TeX based environments.
 
 The project was started at the Institute for Electronics Engineering (LTE) of Friedrich-Alexander-Universität Erlangen-Nürnberg
 
