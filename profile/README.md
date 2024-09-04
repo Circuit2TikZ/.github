@@ -11,18 +11,18 @@ The project was started at the Institute for Electronics Engineering (LTE) of Fr
 
 CircuiTi*k*Z-Designer is a browser-based progressive web application that serves as a GUI for CircuiTi*k*Z. This JavaScript-based, multi-platform browser application can draw circuits, supporting most CircuiTi*k*Z components and rectangular wire connections. The project consists of two parts: the [GUI](https://github.com/Circuit2TikZ/CircuiTikZ-Designer) itself and the [SymbolConvert Tool](https://github.com/Circuit2TikZ/SymbolConvert), allowing the addition and update of components to the GUI when CircuiTi*k*Z introduces changes. Check the GUI out on [GitHub](https://github.com/Circuit2TikZ/CircuiTikZ-Designer) for feature requests and bug reports.
 
-[![](https://circuit2tikz.tf.fau.de/images/designer.png)](https://circuit2tikz.tf.fau.de/designer) CircuiTi*k*Z-Designer
+[![](https://circuit2tikz.tf.fau.de/images/designer.png)](https://circuit2tikz.tf.fau.de/designer) <!-- CircuiTi*k*Z-Designer -->
 
-[![](https://circuit2tikz.tf.fau.de/images/designer*code.png)](https://circuit2tikz.tf.fau.de/designer) CircuiTi*k*Z code
+[![](https://circuit2tikz.tf.fau.de/images/designer_code.png)](https://circuit2tikz.tf.fau.de/designer) <!-- CircuiTi*k*Z code -->
 
 [abl2TikZ](https://github.com/Circuit2TikZ/abl2tikz)
 ----------------------------------------------------
 
 abl2TikZ ("ADS Board Link to TikZ") is a Converter Tool that converts schematics already designed in your EDA design tool to CircuiTi*k*Z. The idea is to avoid redrawing the circuitry for your document if you already have it drawn in your simulation tool. It supports every EDA tool allowing for XML export (such as Cadence Allegro, Cadence Virtuoso, Altium, etc.), though it is currently mostly maintained for Keysights Path Wave Advanced Design System (ADS). The tool runs on Windows and Unix-based systems as a command-line tool, providing Ti*k*Z code from your XML file exported from your simulation tool.
 
-[![](https://circuit2tikz.tf.fau.de/images/ads.png)](https://github.com/Circuit2TikZ/abl2tikz) Keysight ADS
+[![](https://circuit2tikz.tf.fau.de/images/ads.png)](https://github.com/Circuit2TikZ/abl2tikz) <!-- Keysight ADS -->
 
-[![](https://circuit2tikz.tf.fau.de/images/circuitikz.png)](https://github.com/Circuit2TikZ/abl2tikz) CircuiTi*k*Z
+[![](https://circuit2tikz.tf.fau.de/images/circuitikz.png)](https://github.com/Circuit2TikZ/abl2tikz) <!-- CircuiTi*k*Z -->
 
 GitHub Repositories
 -------------------
