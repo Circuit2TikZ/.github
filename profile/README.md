@@ -29,6 +29,6 @@ GitHub Repositories
 
 All projects were initiated as research projects at the [institute of electronics engineering](https://www.lte.tf.fau.de) and are available on [GitHub](https://github.com/orgs/Circuit2TikZ/repositories). We welcome support and new ideas.
 
-©️ Copyright Institute of Electronics Engineering (LTE) 2024
+©️ Copyright Institute of Electronics Engineering (LTE) 2025
 
 Contact: [christof.pfannenmueller@fau.de](mailto:christof.pfannenmueller@fau.de)
